@@ -1,4 +1,5 @@
 Java Project Collection
+
 Overview
 This project contains two standalone Java applications designed to demonstrate basic object-oriented programming and console-based management systems.
 
